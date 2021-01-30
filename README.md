@@ -1,12 +1,9 @@
-markdown
 <h1 align="center">Selam 👋, Ben Wex</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wexpera&label=Profile%20views&color=0e75b6&style=flat" alt="wexpera" /> </p>
 
 - 📧 e-Mail **wexpera@gmail.com**
 
-<h3 align="left">Benimle iletişime geç:</h3>
+<h3 align="left">İletişime geçmek için:</h3>
 <p align="left">
 <a href="https://instagram.com/eeko37" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eeko37" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wexpera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wexpera" height="30" width="40" /></a>
